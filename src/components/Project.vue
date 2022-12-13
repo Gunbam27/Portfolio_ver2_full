@@ -3,6 +3,14 @@
     <h2>Projects</h2>
     <ul>
       <li>
+        <a href="https://gunbam27.github.io/TVUE_build/" target="_blank"><img src="https://gunbam27.github.io/Portfolio_ver2/img/TVUE.png" alt ="TVUE 포트폴리오"/>TVUE 영화 찾기 사이트 제작</a>
+        <div>
+          <p>기간 : 1주</p>
+          <p>작업내용 : Vue.js 프레임워크를 사용하여 만든 영화찾기 사이트입니다. omdbapi에서 제공하는 무료 api를 axios로 받아와 vuex로 상태관리 하였습니다.
+          </p>
+        </div>
+      </li>
+      <li>
         <a href="https://gunbam27.github.io/SAINT-LAURENT/" target="_blank"><img src="https://gunbam27.github.io/Portfolio_ver2/img/YSL.png" alt ="YSL 포트폴리오"/>SAINT-LAURENT 개인사이트 제작</a>
         <div>
           <p>기간 : 2주</p>
